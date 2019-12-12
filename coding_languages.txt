@@ -2,3 +2,5 @@ Python
 Ruby on Rails
 C++
 Java Script
+Java
+Ruby 
